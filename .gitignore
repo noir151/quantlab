@@ -10,3 +10,5 @@ venv/
 Thumbs.db
 
 .ipynb_checkpoints/
+
+optimizer_results.csv
